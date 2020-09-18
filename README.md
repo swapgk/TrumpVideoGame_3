@@ -13,9 +13,7 @@ A. Character Control:
           Run => LShift
           
    Can climb ramps,stairs
-   
    Can Jump
-   
    Animation not added yet
    
 
