@@ -15,8 +15,7 @@ Animation not added yet
 - Run => LShift
 
 ### How to install?
-**Ans:**
 1. Download the Folder
 2. Inside the Folder run *TrumpFPSControl.exe*
-  
-   
+
+#### The game will start
