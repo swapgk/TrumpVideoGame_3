@@ -1,4 +1,4 @@
-# TrumpVideoGame_3-Repo
+# TrumpVideoGame_3
 ## Platform: Windows
 ## Game name: TrumpFPSControl
          
