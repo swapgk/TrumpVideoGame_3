@@ -19,3 +19,4 @@ Animation not added yet
 2. Inside the Folder run *TrumpFPSControl.exe*
 
 #### The game will start
+### Note: I havent added the quit feature, so close the app window directly
